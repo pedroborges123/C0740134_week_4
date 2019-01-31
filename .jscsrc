@@ -64,5 +64,8 @@
     "validateIndentation": 4,
     "validateLineBreaks": "LF",
     "validateParameterSeparator": ", ",
-    "validateQuoteMarks": "'"
+    "validateQuoteMarks": "'",
+  "excludeFiles": [
+    "./src/js/main.js"
+  ]
 }
